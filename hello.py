@@ -15,3 +15,5 @@ print(list1[-1])
 print(list1[1:4])
 list1.remove("Python")
 print(list1)
+
+print("Было внесено изменение в git")
