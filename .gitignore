@@ -3,3 +3,4 @@ passwords.txt
 *.log
 settings.py
 /env
+/.vscode
