@@ -3,4 +3,3 @@ passwords.txt
 *.log
 settings.py
 /env
-*/cats_images
